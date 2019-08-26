@@ -1,0 +1,127 @@
+html {
+    margin: 0 auto;
+    width: 60%;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    border: 1px solid whitesmoke;
+}
+
+.head {
+    margin: 2px;
+    font-family: heltevica, sans-serif;
+    background-color: #075e54;
+
+}
+
+h1 {
+margin: 5px;
+    padding: 5px; 
+    position: relative;
+    top: 25px;
+    width: 180px;
+    display: block;
+    color: white;
+}
+
+.top-head {
+    display: block;
+}
+
+.icons {
+    margin: 5px;
+    position: relative;
+    bottom: 35px;
+    height: 33px;
+    width: 55px;
+    float: right;
+    color: white;
+}
+
+.icon1 {
+    margin: 1px;
+    padding: 3px;
+    position: inherit;
+    top: 5px;
+    right: 35px;
+    color: white;
+}
+
+.icon2 {
+    margin: 5px;
+    padding: 1px;
+    position: relative;
+    bottom: 27px;
+    float: right;
+}
+
+.nav-tab {
+    margin: 0 auto;
+    width: 150px;
+    
+}
+
+.chats,
+.status,
+.calls {
+    float: right;
+    display: block;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+
+a {
+    width: 100%;
+    margin: 0 auto;
+    text-decoration: none;
+    font-family: inherit;
+    color: white;
+
+}
+
+img {
+    height: 72px;
+    width: 72px;
+    border-radius: 45px;
+    margin: 3px;
+    padding: 3px;
+    position: relative;
+    top: 30px;
+}
+
+.time {
+    float: right;
+    color: grey;
+}
+
+.name {
+    text-overflow: ellipsis;
+    color: black;
+    position: relative;
+    bottom: 25px;
+}
+
+.text {
+    width: 250px;
+    color: gray;
+    position: relative;
+    left: 17%;
+    bottom: 35px;
+    display: block;
+}
+
+hr {
+    margin-left: 70px;
+    margin-right: 0px;
+    direction: rtl;
+    float: right;
+    width: 80%;
+    border: 0px;
+    border: 1px solid whitesmoke;
+
+}
